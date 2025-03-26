@@ -64,7 +64,7 @@ cd ../client
 npm start
 ```
 
-6. The application will be available at http://localhost:3000.
+6. The application will be available at http://localhost:3001
 
 ## Key Features
 
