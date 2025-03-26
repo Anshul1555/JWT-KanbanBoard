@@ -1,0 +1,4 @@
+# Environment files
+.env
+# OS-specific
+.DS_Store
