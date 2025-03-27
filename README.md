@@ -78,7 +78,7 @@ npm start
 
 The application is deployed on Render and can be accessed at:
 
-**Live URL**: [Insert your deployed app URL here]
+**Live URL**: https://jwt-kanbanboard.onrender.com
 
 ## Technologies Used
 
