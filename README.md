@@ -93,3 +93,7 @@ The application is deployed on Render and can be accessed at:
 1. **Login**: Enter your username and password on the login page.
 2. **Access Kanban Board**: After successful login, you'll be redirected to the Kanban board where you can view and manage tasks.
 3. **Logout**: Click the logout button to log out, which will remove the JWT from `localStorage` and redirect you back to the login page.
+
+## Video:
+
+https://github.com/user-attachments/assets/156071d6-0e2c-4cfe-a706-13cd6d5cf6cb
